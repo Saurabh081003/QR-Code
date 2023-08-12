@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <pre><h1>                                          QR Code Scanner and Generator
+
+        </pre></h1>
+    </header>
+    
+    <main>
+        <form action="/action.php">
+            <table>
+                <thead>
+                    
+                        <caption colspan="2">
+                         <pre><h2>                                                         Login/SignIn</pre></h2>
+                                                                
+                         <tr width="200"><th width="300"><pre><h2>                                                           <input type="text" placeholder="Username" width="40000"></pre></h2></th>
+                            <th><h2><pre><input type="password" placeholder="Password"></pre></h2></th>
+                                                         
+                           
+                            </tr>
+                        </caption>
+
+                    
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>
+                            <pre>
+                                                                                         <select name="year" height="200">
+                                                                                          <h2> <option value="First year">First year</option>
+                                                                                            <option value="Second year">Second year</option>
+                                                                                            <option value="Third year">Third year</option>
+                                                                                            <option value="Last year">Last year</option></h2>
+                                                                                         </select></pre></td><td><pre><input type="number" placeholder="Number"></pre></td>
+                        
+                    </tr>
+
+                           
+                                                          
+                    
+                </tbody>
+                
+            </table>
+            <pre>                                                                                        
+                                                                                         <input type="text" placeholder="College"> <input type="text" placeholder="email@somaiya.edu">
+                                                                    
+            </pre>
+            <pre>
+                    <big>                                                          Gender:<label for="1"><input type="radio" value="Male" name="gender" id="1">Male</label> <label for="2"><input type="radio" value="Female" name="gender" id="2">Female</big></label>
+            </pre>
+            <pre>                                                                                         <input type="submit" value="Submit"></pre>
+        </form>
+    
+    
+
+    </main>
+    <footer> 
+
+    </footer>
+    
+</body>
